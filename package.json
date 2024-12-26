@@ -1,0 +1,12 @@
+{
+  "name": "API GRAVITY CALCULATOR",
+  "version": "1.0.0",
+  "description": "APLIKASI UNTUK MENGHITUNG NILAI API GRAVITY.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^26.2.0"
+  }
+}
